@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Consulta_Preguntas" value="name:idPregunta;datatype:int,name:pregunta;datatype:string,name:idEmisor;datatype:int,name:idReceptor;datatype:int" />
+</info>
